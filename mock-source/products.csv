@@ -1,0 +1,101 @@
+articleNumber,title,manufacturer,categoryPath,details,specs,price,currency
+AUD-1001,Sony WH-1000XM5 Wireless Headphones,Sony,Electronics > Audio > Headphones,"Over-ear Bluetooth headphones with industry-leading noise cancelling and up to 30 hours of battery life.",color=Midnight Blue;connectivity=Bluetooth 5.2;batteryLife=30 hours,379.00,EUR
+AUD-1002,Bose QuietComfort Ultra Headphones,Bose,Electronics > Audio > Headphones,"Premium noise cancelling headphones with immersive spatial audio.",color=White Smoke;connectivity=Bluetooth 5.3;batteryLife=24 hours,449.95,EUR
+AUD-1003,Apple AirPods Pro (2nd generation),Apple,Electronics > Audio > Earbuds,"In-ear wireless earbuds with active noise cancellation, transparency mode and USB-C charging case.",color=White;connectivity=Bluetooth 5.3;waterResistance=IP54,279.00,EUR
+AUD-1004,Samsung Galaxy Buds3 Pro,Samsung,Electronics > Audio > Earbuds,"Wireless earbuds with adaptive noise cancelling and 24-bit hi-fi sound.",color=Silver;connectivity=Bluetooth 5.4;waterResistance=IP57,249.00,EUR
+AUD-1005,Sennheiser Momentum 4 Wireless,Sennheiser,Electronics > Audio > Headphones,"Wireless over-ear headphones with 60 hours of battery life and adaptive noise cancellation.",color=Graphite;connectivity=Bluetooth 5.2;batteryLife=60 hours,299.00,EUR
+AUD-1006,JBL Flip 6 Portable Speaker,JBL,Electronics > Audio > Speakers,"Waterproof portable Bluetooth speaker with bold sound and 12 hours of playtime.",color=Teal;waterResistance=IP67;batteryLife=12 hours,129.99,EUR
+AUD-1007,Sonos Era 100 Smart Speaker,Sonos,Electronics > Audio > Speakers,"Compact smart speaker with stereo sound, Wi-Fi and Bluetooth streaming.",color=Black;connectivity=Wi-Fi / Bluetooth,279.00,EUR
+AUD-1008,Marshall Emberton III,Marshall,Electronics > Audio > Speakers,"Rugged portable speaker with 360-degree sound and more than 32 hours of playtime.",color=Black and Brass;waterResistance=IP67,169.00,EUR
+AUD-1009,Bang & Olufsen Beoplay H95,Bang & Olufsen,Electronics > Audio > Headphones,"Luxury over-ear headphones with adaptive noise cancellation and aluminium ear cups.",color=Gold Tone;batteryLife=38 hours,999.00,EUR
+AUD-1010,Shure SM7B Vocal Microphone,Shure,Electronics > Audio > Microphones,"Dynamic studio microphone for podcasting, streaming and vocal recording.",connector=XLR;pattern=Cardioid,429.00,EUR
+SPT-2001,Nike Pegasus 41 Running Shoes,Nike,Sports > Running > Shoes,"Responsive everyday running shoes with ReactX foam and a breathable mesh upper.",color=Black/White;size=44;gender=Men,139.99,EUR
+SPT-2002,adidas Ultraboost 5 Running Shoes,adidas,Sports > Running > Shoes,"Cushioned running shoes with Light BOOST midsole for long distances.",color=Core Black;size=42;gender=Women,189.95,EUR
+SPT-2003,ASICS Gel-Kayano 31,ASICS,Sports > Running > Shoes,"Stability running shoes for overpronators with FF BLAST PLUS cushioning.",color=Blue;size=43;gender=Men,179.90,EUR
+SPT-2004,HOKA Clifton 9,HOKA,Sports > Running > Shoes,"Lightweight neutral running shoes with a soft and balanced ride.",color=Cerise;size=39;gender=Women,149.95,EUR
+SPT-2005,Salomon Speedcross 6 Trail Shoes,Salomon,Sports > Running > Trail shoes,"Aggressive grip trail running shoes for soft and muddy terrain.",color=Black;size=45;gender=Men,149.99,EUR
+SPT-2006,Garmin Forerunner 265 GPS Running Watch,Garmin,Sports > Wearables > Watches,"GPS smartwatch with AMOLED display, training readiness and heart rate monitoring.",color=Black;display=AMOLED;batteryLife=13 days,349.99,EUR
+SPT-2007,Polar Pacer Pro,Polar,Sports > Wearables > Watches,"Lightweight GPS running watch with barometric altimeter and running power.",color=Carbon Grey;batteryLife=7 days,299.90,EUR
+SPT-2008,Nike Dri-FIT Running Shirt,Nike,Sports > Running > Clothing,"Sweat-wicking short sleeve running shirt made from recycled polyester.",color=Volt;size=M;material=Recycled polyester,34.99,EUR
+SPT-2009,Kiprun Running Belt,Kiprun,Sports > Running > Accessories,"Stretchy running belt for your phone, keys and energy gels.",color=Black;size=S/M,14.99,EUR
+SPT-2010,Wilson Pro Staff 97 Tennis Racket,Wilson,Sports > Tennis > Rackets,"Classic 97 square inch tennis racket for advanced players.",weight=315 g;gripSize=L3,249.00,EUR
+KIT-3001,Moccamaster KBG Select Filter Coffee Maker,Technivorm,Home > Kitchen > Coffee makers,"Handmade filter coffee maker from the Netherlands that brews a full jug in six minutes.",color=Matt Black;capacity=1.25 l;countryOfOrigin=Netherlands,259.00,EUR
+KIT-3002,Philips 5400 Series LatteGo Espresso Machine,Philips,Home > Kitchen > Espresso machines,"Fully automatic espresso machine with LatteGo milk system and 12 coffee recipes.",color=Black Chrome;capacity=1.8 l;recipes=12,699.00,EUR
+KIT-3003,De'Longhi Magnifica S Bean-to-Cup Coffee Machine,De'Longhi,Home > Kitchen > Espresso machines,"Compact bean-to-cup espresso machine with manual milk frother.",color=Silver;capacity=1.8 l,349.00,EUR
+KIT-3004,Sage Barista Express,Sage,Home > Kitchen > Espresso machines,"Espresso machine with integrated conical burr grinder and steam wand.",color=Brushed Stainless Steel;capacity=2 l,629.00,EUR
+KIT-3005,Nespresso Vertuo Pop,Nespresso,Home > Kitchen > Coffee makers,"Compact capsule coffee machine for espresso and large mugs.",color=Pacific Blue;capacity=0.6 l,99.00,EUR
+KIT-3006,Baratza Encore ESP Coffee Grinder,Baratza,Home > Kitchen > Coffee grinders,"Burr grinder with 40 settings for espresso and filter coffee.",color=Black;burrs=Conical steel,199.00,EUR
+KIT-3007,Le Creuset Signature Cast Iron Dutch Oven 24 cm,Le Creuset,Home > Kitchen > Cookware,"Enamelled cast iron casserole for slow cooking, suitable for all hobs including induction.",color=Volcanic;capacity=4.2 l;material=Cast iron,329.00,EUR
+KIT-3008,KitchenAid Artisan Stand Mixer 4.8 l,KitchenAid,Home > Kitchen > Mixers,"Tilt-head stand mixer with 10 speeds and a stainless steel bowl.",color=Empire Red;capacity=4.8 l;power=300 W,599.00,EUR
+KIT-3009,Philips Airfryer XXL,Philips,Home > Kitchen > Air fryers,"Large air fryer that fries with little or no oil, for up to six portions.",color=Black;capacity=7.3 l;power=2200 W,249.99,EUR
+KIT-3010,Tefal Ingenio Pan Set 3-piece,Tefal,Home > Kitchen > Cookware,"Stackable non-stick pans with a removable handle, oven and induction safe.",material=Aluminium;pieces=3,89.99,EUR
+KIT-3011,Victorinox Swiss Classic Chef's Knife 20 cm,Victorinox,Home > Kitchen > Knives,"All-round chef's knife with a stainless steel blade and ergonomic handle.",bladeLength=20 cm;material=Stainless steel,44.95,EUR
+KIT-3012,Bialetti Moka Express 6 Cups,Bialetti,Home > Kitchen > Coffee makers,"The original Italian stovetop espresso maker in aluminium.",capacity=6 cups;material=Aluminium,39.99,EUR
+BIK-4001,Gazelle Ultimate C380 HMB E-bike,Gazelle,Mobility > Bikes > E-bikes,"Dutch electric city bike with Bosch Performance Line motor and continuously variable Enviolo hub.",color=Thunder Grey;frameSize=57 cm;motor=Bosch Performance Line;countryOfOrigin=Netherlands,3899.00,EUR
+BIK-4002,VanMoof S5 E-bike,VanMoof,Mobility > Bikes > E-bikes,"Smart electric city bike with automatic gear shifting and built-in anti-theft tracking.",color=Dark Grey;frameSize=Regular;range=150 km,3498.00,EUR
+BIK-4003,Cortina E-U4 Transport Bike,Cortina,Mobility > Bikes > E-bikes,"Sturdy Dutch transport e-bike with front carrier and hub motor.",color=Black Matt;frameSize=50 cm,2299.00,EUR
+BIK-4004,Batavus Mambo City Bike,Batavus,Mobility > Bikes > City bikes,"Classic Dutch city bike with 3 gears, coaster brake and front carrier.",color=Olive Green;frameSize=53 cm;gears=3,699.00,EUR
+BIK-4005,ABUS Bordo 6000 Folding Lock,ABUS,Mobility > Bikes > Accessories,"Folding bike lock with hardened steel bars and security level 10.",length=90 cm;securityLevel=10,99.95,EUR
+BIK-4006,Xiaomi Electric Scooter 4 Pro,Xiaomi,Mobility > Scooters,"Foldable electric scooter with 45 km range and dual brakes.",color=Black;range=45 km;maxSpeed=25 km/h,599.00,EUR
+PHN-5001,Fairphone 5 Smartphone 256GB,Fairphone,Electronics > Phones > Smartphones,"Sustainable, repairable smartphone with replaceable battery and eight years of software support.",color=Transparent;storage=256 GB;screenSize=6.46 inch,699.00,EUR
+PHN-5002,Samsung Galaxy S25 128GB,Samsung,Electronics > Phones > Smartphones,"Compact Android flagship smartphone with Galaxy AI and a 50 MP camera.",color=Icyblue;storage=128 GB;screenSize=6.2 inch,899.00,EUR
+PHN-5003,Apple iPhone 16 128GB,Apple,Electronics > Phones > Smartphones,"iPhone with A18 chip, Camera Control button and 48 MP Fusion camera.",color=Ultramarine;storage=128 GB;screenSize=6.1 inch,969.00,EUR
+PHN-5004,Google Pixel 9 Pro 256GB,Google,Electronics > Phones > Smartphones,"Android smartphone with Tensor G4 chip, triple camera and seven years of updates.",color=Porcelain;storage=256 GB;screenSize=6.3 inch,1199.00,EUR
+PHN-5005,Apple iPad Air 11-inch M2,Apple,Electronics > Tablets,"Thin and light tablet with M2 chip and support for Apple Pencil Pro.",color=Space Grey;storage=128 GB;screenSize=11 inch,699.00,EUR
+PHN-5006,Samsung Galaxy Tab S9 FE,Samsung,Electronics > Tablets,"Water resistant Android tablet with S Pen included.",color=Mint;storage=128 GB;screenSize=10.9 inch,449.00,EUR
+PHN-5007,Anker 737 Power Bank 24000mAh,Anker,Electronics > Phones > Accessories,"High capacity power bank with 140 W USB-C output for laptops and phones.",capacity=24000 mAh;output=140 W,109.99,EUR
+PHN-5008,Spigen Tough Armor Case iPhone 16,Spigen,Electronics > Phones > Accessories,"Protective phone case with kickstand and military grade drop protection.",color=Black;compatibleWith=iPhone 16,29.99,EUR
+CMP-6001,Apple MacBook Air 13-inch M4,Apple,Electronics > Computers > Laptops,"Thin and light laptop with Apple M4 chip, 16 GB unified memory and up to 18 hours of battery life.",color=Sky Blue;memory=16 GB;storage=256 GB SSD,1199.00,EUR
+CMP-6002,Lenovo ThinkPad X1 Carbon Gen 13,Lenovo,Electronics > Computers > Laptops,"Business ultrabook with Intel Core Ultra processor and a 14-inch 2.8K OLED display.",color=Black;memory=32 GB;storage=1 TB SSD,2149.00,EUR
+CMP-6003,Dell XPS 14,Dell,Electronics > Computers > Laptops,"Premium 14-inch laptop with Intel Core Ultra 7 and NVIDIA RTX graphics.",color=Graphite;memory=16 GB;storage=512 GB SSD,1899.00,EUR
+CMP-6004,ASUS ROG Zephyrus G16 Gaming Laptop,ASUS,Electronics > Computers > Laptops,"Slim gaming laptop with RTX 4070 graphics and a 240 Hz OLED display.",color=Eclipse Grey;memory=32 GB;storage=1 TB SSD,2499.00,EUR
+CMP-6005,Logitech MX Master 3S Wireless Mouse,Logitech,Electronics > Computers > Accessories,"Ergonomic performance mouse with quiet clicks and 8K DPI tracking on any surface, including glass.",color=Graphite;connectivity=Bluetooth / Logi Bolt,109.99,EUR
+CMP-6006,Keychron Q1 Max Mechanical Keyboard,Keychron,Electronics > Computers > Accessories,"Wireless 75% mechanical keyboard with aluminium body and hot-swappable switches.",color=Carbon Black;layout=ANSI;switches=Gateron Jupiter Red,219.00,EUR
+CMP-6007,Dell UltraSharp U2724D 27-inch Monitor,Dell,Electronics > Computers > Monitors,"27-inch QHD IPS monitor with 120 Hz refresh rate and a USB-C hub.",screenSize=27 inch;resolution=2560x1440;refreshRate=120 Hz,469.00,EUR
+CMP-6008,LG UltraGear 32GS95UE OLED Gaming Monitor,LG,Electronics > Computers > Monitors,"32-inch 4K OLED gaming monitor with dual mode 240/480 Hz.",screenSize=32 inch;resolution=3840x2160;refreshRate=240 Hz,1299.00,EUR
+CMP-6009,Samsung T7 Shield Portable SSD 2TB,Samsung,Electronics > Computers > Storage,"Rugged portable SSD with USB 3.2 and read speeds up to 1050 MB/s.",capacity=2 TB;color=Beige;waterResistance=IP65,179.99,EUR
+CMP-6010,Brother HL-L2445DW Laser Printer,Brother,Electronics > Computers > Printers,"Compact black and white laser printer with Wi-Fi and duplex printing.",printSpeed=34 ppm;connectivity=Wi-Fi / USB,149.00,EUR
+OUT-7001,Patagonia Nano Puff Jacket,Patagonia,Fashion > Outdoor > Jackets,"Lightweight, windproof insulated jacket made with recycled materials.",color=Forge Grey;size=M;material=Recycled polyester,230.00,EUR
+OUT-7002,The North Face Borealis Backpack 28L,The North Face,Fashion > Bags > Backpacks,"Everyday backpack with padded laptop sleeve and FlexVent suspension.",color=TNF Black;volume=28 l,99.95,EUR
+OUT-7003,Rains Long Jacket,Rains,Fashion > Outdoor > Rain jackets,"Danish waterproof rain jacket with welded seams and a relaxed fit.",color=Green;size=L;material=Polyester with PU coating,109.00,EUR
+OUT-7004,Fjällräven Kånken Backpack,Fjällräven,Fashion > Bags > Backpacks,"Iconic Swedish backpack made from durable Vinylon F fabric.",color=Ox Red;volume=16 l,109.95,EUR
+OUT-7005,Arc'teryx Beta AR Jacket,Arc'teryx,Fashion > Outdoor > Jackets,"Versatile GORE-TEX Pro shell jacket for alpine conditions.",color=Black;size=M;material=GORE-TEX Pro,700.00,EUR
+OUT-7006,Levi's 501 Original Jeans,Levi's,Fashion > Clothing > Jeans,"The original straight fit button fly jeans in rigid denim.",color=Dark Stonewash;size=32/32;material=Cotton,110.00,EUR
+OUT-7007,Icebreaker Merino 200 Oasis Long Sleeve,Icebreaker,Fashion > Outdoor > Base layers,"Soft merino wool base layer that regulates temperature and resists odour.",color=Midnight Navy;size=M;material=Merino wool,99.95,EUR
+OUT-7008,Osprey Atmos AG 65 Hiking Backpack,Osprey,Fashion > Bags > Hiking backpacks,"Large trekking backpack with Anti-Gravity suspension for multi-day hikes.",color=Black;volume=65 l,299.95,EUR
+OUT-7009,Hanwag Tatra II GTX Hiking Boots,Hanwag,Fashion > Outdoor > Hiking boots,"Leather hiking boots with GORE-TEX lining, made for wide feet.",color=Brown;size=43;material=Nubuck leather,269.95,EUR
+OUT-7010,Coleman Darwin 4 Tent,Coleman,Sports > Camping > Tents,"Four person dome tent with a porch, quick to pitch.",capacity=4 persons;weight=6.4 kg,149.99,EUR
+HOM-8001,Dyson V15 Detect Cordless Vacuum Cleaner,Dyson,Home > Household > Vacuum cleaners,"Cordless stick vacuum with laser dust detection and piezo particle counting.",color=Yellow/Nickel;batteryLife=60 minutes,749.00,EUR
+HOM-8002,Roborock S8 MaxV Ultra Robot Vacuum,Roborock,Home > Household > Robot vacuums,"Robot vacuum and mop with a self-emptying and self-cleaning dock.",color=Black;suction=10000 Pa,1499.00,EUR
+HOM-8003,Philips Hue White and Color Ambiance Starter Kit E27,Philips,Home > Smart home > Lighting,"Smart lighting starter kit with three colour bulbs and the Hue Bridge.",fitting=E27;connectivity=Zigbee / Bluetooth;bulbs=3,159.99,EUR
+HOM-8004,Google Nest Learning Thermostat,Google,Home > Smart home > Climate,"Smart thermostat that learns your schedule and helps you save energy.",color=Polished Silver;connectivity=Wi-Fi,279.00,EUR
+HOM-8005,Ring Video Doorbell 4,Ring,Home > Smart home > Security,"Battery powered video doorbell with 1080p HD video and two-way talk.",resolution=1080p;power=Battery,199.00,EUR
+HOM-8006,tado Smart Radiator Thermostat Starter Kit,tado,Home > Smart home > Climate,"Smart radiator thermostats to control the heating per room from your phone.",connectivity=Wi-Fi;pieces=2,179.99,EUR
+HOM-8007,IKEA POÄNG Armchair,IKEA,Home > Furniture > Chairs,"Bent birch veneer armchair with a comfortable, springy seat.",color=Birch/Knisa Light Beige;material=Birch veneer,119.00,EUR
+HOM-8008,Auping Evolution Bed 160x200,Auping,Home > Furniture > Beds,"Dutch designed bed with an adjustable spring base, made in Deventer.",size=160x200 cm;countryOfOrigin=Netherlands,2495.00,EUR
+HOM-8009,Philips Sonicare DiamondClean 9000,Philips,Home > Personal care > Toothbrushes,"Electric sonic toothbrush with pressure sensor and charging glass.",color=Black;batteryLife=14 days,199.99,EUR
+HOM-8010,Braun Series 9 Pro+ Shaver,Braun,Home > Personal care > Shavers,"Wet and dry electric shaver with a 5-in-1 cleaning centre.",color=Graphite;batteryLife=60 minutes,349.99,EUR
+HOM-8011,Miele Complete C3 Vacuum Cleaner,Miele,Home > Household > Vacuum cleaners,"Bagged cylinder vacuum cleaner with strong suction and quiet operation.",color=Obsidian Black;power=890 W,329.00,EUR
+HOM-8012,Bosch Serie 6 Washing Machine 9 kg,Bosch,Home > Household > Washing machines,"Front loading washing machine with i-DOS automatic dosing and energy label A.",capacity=9 kg;energyLabel=A;spinSpeed=1400 rpm,799.00,EUR
+TVG-9001,LG OLED evo C4 55-inch TV,LG,Electronics > TV > OLED TVs,"55-inch 4K OLED TV with 144 Hz refresh rate and Dolby Vision.",screenSize=55 inch;resolution=3840x2160;refreshRate=144 Hz,1499.00,EUR
+TVG-9002,Samsung Neo QLED QN90D 65-inch TV,Samsung,Electronics > TV > QLED TVs,"65-inch 4K Neo QLED TV with Mini LED backlight and anti-glare screen.",screenSize=65 inch;resolution=3840x2160,1899.00,EUR
+TVG-9003,Sony PlayStation 5 Slim,Sony,Electronics > Gaming > Consoles,"Slim PlayStation 5 console with 1 TB SSD and Ultra HD Blu-ray drive.",storage=1 TB;color=White,549.99,EUR
+TVG-9004,Nintendo Switch OLED,Nintendo,Electronics > Gaming > Consoles,"Hybrid game console with a vibrant 7-inch OLED screen.",color=Neon Red/Neon Blue;storage=64 GB,349.99,EUR
+TVG-9005,Xbox Wireless Controller,Microsoft,Electronics > Gaming > Controllers,"Wireless controller with textured grip and hybrid D-pad.",color=Carbon Black;connectivity=Bluetooth,59.99,EUR
+TVG-9006,Sony Alpha 7 IV Mirrorless Camera,Sony,Electronics > Cameras > Mirrorless cameras,"Full-frame mirrorless camera with 33 MP sensor and 4K 60p video.",sensor=Full frame;resolution=33 MP,2499.00,EUR
+TVG-9007,Canon EOS R50 with 18-45mm Lens,Canon,Electronics > Cameras > Mirrorless cameras,"Compact mirrorless camera for vlogging and travel, with kit lens.",sensor=APS-C;resolution=24 MP,899.00,EUR
+TVG-9008,GoPro HERO13 Black,GoPro,Electronics > Cameras > Action cameras,"Waterproof action camera with 5.3K video and HyperSmooth stabilisation.",resolution=5.3K;waterResistance=10 m,449.99,EUR
+TVG-9009,DJI Mini 4 Pro Drone,DJI,Electronics > Cameras > Drones,"Camera drone under 249 g with 4K HDR video and obstacle sensing.",weight=249 g;range=20 km,999.00,EUR
+TVG-9010,Sonos Arc Ultra Soundbar,Sonos,Electronics > Audio > Soundbars,"Dolby Atmos soundbar with deep bass for home cinema.",color=Black;connectivity=Wi-Fi / HDMI eARC,999.00,EUR
+TVG-9011,Amazon Kindle Paperwhite (2024),Amazon,Electronics > E-readers,"Waterproof e-reader with a 7-inch glare-free display and weeks of battery life.",color=Jade;storage=16 GB;waterResistance=IPX8,169.99,EUR
+TVG-9012,Kobo Libra Colour,Kobo,Electronics > E-readers,"Colour e-reader with page turn buttons and stylus support.",color=White;storage=32 GB;screenSize=7 inch,229.99,EUR
+TOY-9101,LEGO Technic Mercedes-AMG F1 W14 E Performance,LEGO,Toys > Building sets,"Detailed 1:8 scale model of the Formula 1 race car with working steering and V6 engine.",pieces=1642;age=18+,219.99,EUR
+TOY-9102,LEGO Icons Orchid,LEGO,Toys > Building sets,"Buildable orchid display piece that never needs watering.",pieces=608;age=18+,49.99,EUR
+TOY-9103,Catan Board Game,999 Games,Toys > Board games,"Strategy board game about trading and building on the island of Catan.",players=3-4;age=10+;language=Dutch,39.99,EUR
+TOY-9104,Ravensburger Puzzle Amsterdam 1000 Pieces,Ravensburger,Toys > Puzzles,"Jigsaw puzzle of Amsterdam canal houses at dusk.",pieces=1000;age=14+,16.99,EUR
+GRD-9201,Bosch Rotak 36 Cordless Lawn Mower,Bosch,Garden > Lawn mowers,"Cordless 36 V lawn mower with 36 cm cutting width and grass combs.",cuttingWidth=36 cm;voltage=36 V,399.00,EUR
+GRD-9202,Weber Spirit E-325 Gas Barbecue,Weber,Garden > Barbecues,"Three burner gas barbecue with sear zone and side burner.",burners=3;color=Black,899.00,EUR
+GRD-9203,Gardena Comfort Garden Hose 20 m,Gardena,Garden > Watering,"Kink-free garden hose with spray nozzle and connectors.",length=20 m;diameter=13 mm,59.99,EUR
+GRD-9204,Makita DDF485Z Cordless Drill,Makita,Garden > Tools > Drills,"18 V brushless cordless drill driver, body only.",voltage=18 V;torque=50 Nm,119.00,EUR
+BKS-9301,Clean Code,Pearson,Books > Software development,"Robert C. Martin's handbook of agile software craftsmanship about writing readable, maintainable code.",format=Paperback;language=English;pages=464,39.99,EUR
+BKS-9302,Designing Data-Intensive Applications,O'Reilly,Books > Software development,"Martin Kleppmann's book on the ideas behind reliable, scalable and maintainable systems.",format=Paperback;language=English;pages=616,54.99,EUR
